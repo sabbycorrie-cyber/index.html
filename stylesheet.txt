@@ -1,3 +1,4 @@
+stylesheet
 h1 {
     color: rgb(32, 6, 92);
     font-size: 80px;
@@ -34,7 +35,6 @@ h6 {
     font-size: 15px;
     text-align: center;
     background-color:rgb(255, 255, 255)
-    background-image: url(../website/rihanna-and-pm-mottley.webp);
     background-repeat: no-repeat;
     background-size: 400px;
     background-position: center;
@@ -43,11 +43,12 @@ h6 {
         reasons why the island is so special. 
         </h6>
 }
-/*color, font-size and text alignment, background-color, background-image, background-repeat, background-size, background-position, background-alignment added to
+
+/*color, font-size and text alignment added to
  h6 tag*/
 
  body {
-    background-image: url(../website/bathsheba-beach.jpg);
+    background-image:  url(../website/bathsheba-beach.jpg);
     background-size: cover;
     background-position: center;
 }

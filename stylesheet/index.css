@@ -8,8 +8,8 @@ h1 {
 }
 
 /*color, font-size, font-weight, font-style,
-text alignment and background coloradded to
- h1 tag*/
+text alignment and background color added to
+h1 tag*/
 
 h3 {
     font-size: 25px;
@@ -18,7 +18,7 @@ h3 {
 }
 
 /*color, font-size and text alignment added to
- h3 tag*/
+h3 tag*/
 
 h4 {
     font-size: 17px;
@@ -27,14 +27,13 @@ h4 {
 }
 
 /*color, font-size and text alignment added to
- h4 tag*/
+h4 tag*/
 
 h6 {
     font-style:italic;
     font-size: 15px;
     text-align: center;
-    background-color:rgb(255, 255, 255)
-    background-image: url(../website/rihanna-and-pm-mottley.webp);
+    background-color:rgb(255, 255, 255);
     background-repeat: no-repeat;
     background-size: 400px;
     background-position: center;
@@ -44,9 +43,9 @@ h6 {
         </h6>
 }
 /*color, font-size and text alignment, background-color, background-image, background-repeat, background-size, background-position, background-alignment added to
- h6 tag*/
+h6 tag*/
 
- body {
+body {
     background-image: url(../website/bathsheba-beach.jpg);
     background-size: cover;
     background-position: center;
@@ -59,4 +58,3 @@ img {
 }
 /*background image, size and position added
 to body tag*/
-
